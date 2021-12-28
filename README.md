@@ -1,5 +1,9 @@
 # Getting Started with Create React App
 
+To use the app click [here](https://ig-clone-app.netlify.app/login).
+
+The sample credentials are Username:firstuser@gmail.com and Password: Firstuser5
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
